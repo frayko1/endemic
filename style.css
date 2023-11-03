@@ -825,19 +825,31 @@ nav h1 {
 	top:125px;
 }
 
-@media(max-height: 775px){
+@media(max-height: 900px){
+	#review{
+		top: 100px;
+	}
+}
+
+@media(max-height: 845px){
+	#review{
+		top: 90px;
+	}
+}
+
+@media(max-height: 770px){
 	#review{
 		top: 80px;
 	}
 }
 
-@media(max-height: 700px){
+@media(max-height: 710px){
 	#review{
-		top: 50px;
+		top: 60px;
 	}
 }
 
-@media(max-height: 635px){
+@media(max-height: 680px){
 	#review{
 		top: 40px;
 	}
